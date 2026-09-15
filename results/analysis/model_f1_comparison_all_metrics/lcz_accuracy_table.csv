@@ -1,0 +1,5 @@
+﻿Method,Input,Encoder type,Building representation,OA,OAurb,OAu,Macro-F1,Weighted-F1,Kappa
+RS-CNN (Baseline),RS,Single,-,0.906551,0.832572,0.992998,0.784335,0.905717,0.882835
+RasterConcat-CNN,RS + Building,Single,Raster,0.915777,0.843227,0.982344,0.749154,0.906137,0.894205
+BuildingVisual-CNN,RS + Building,Dual,Raster,0.911823,0.857839,0.996043,0.782191,0.905895,0.889335
+BGF-LCZNet (Ours),RS + Building,Dual,Graph,0.952814,0.912329,0.989041,0.852787,0.950266,0.940741

@@ -1,0 +1,2 @@
+﻿OA,Macro_F1,Weighted_F1,Kappa,total_samples,note
+0.9157769869513642,0.749154021607636,0.9061369116108704,0.8942052125933623,7587,"Rows=reference, columns=predicted/classified. PA=recall, UA=precision."

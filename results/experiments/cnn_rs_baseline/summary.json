@@ -1,0 +1,33 @@
+{
+  "best_epoch": 78,
+  "best_val_oa": 0.8967021686128577,
+  "test_oa": 0.9065506787926717,
+  "test_macro_f1": 0.7843349033323233,
+  "test_weighted_f1": 0.9057172842821686,
+  "classes": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    8,
+    101,
+    102,
+    104,
+    107
+  ],
+  "class_names": [
+    "LCZ1",
+    "LCZ2",
+    "LCZ3",
+    "LCZ4",
+    "LCZ5",
+    "LCZ6",
+    "LCZ8",
+    "LCZA",
+    "LCZB",
+    "LCZD",
+    "LCZG"
+  ]
+}

@@ -1,0 +1,8 @@
+{
+  "OA": 0.9157769869513642,
+  "Macro_F1": 0.749154021607636,
+  "Weighted_F1": 0.9061369116108704,
+  "Kappa": 0.8942052125933623,
+  "total_samples": 7587,
+  "note": "Rows=reference, columns=predicted/classified. PA=recall, UA=precision."
+}

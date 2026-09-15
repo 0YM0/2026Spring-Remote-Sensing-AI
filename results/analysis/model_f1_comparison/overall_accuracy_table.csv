@@ -1,0 +1,5 @@
+﻿Method,Input,Encoder type,Building representation,OA,Macro-F1,Weighted-F1
+RS-CNN (Baseline),RS,Single,-,0.9066,0.7843,0.9057
+RasterConcat-CNN,RS + Building,Single,Raster,0.9158,0.7492,0.9061
+BuildingVisual-CNN,RS + Building,Dual,Raster,0.9118,0.7822,0.9059
+BGF-LCZNet (Ours),RS + Building,Dual,Graph,0.9528,0.8528,0.9503
